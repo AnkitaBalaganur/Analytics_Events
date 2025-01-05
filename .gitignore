@@ -1,0 +1,5 @@
+.env
+node_modules/
+*percy.cy.js
+POST', '**/track/?verbose=1&ip=1&_*=*'  // This intercepts a POST request with sensitive tracking data. Replace with appropriate handling logic before use.
+*test.cy.js
